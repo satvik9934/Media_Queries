@@ -1,6 +1,6 @@
 # Media_Queries
 # GitHub repo link:-https://github.com/satvik9934/Media_Queries.git
-
+# Hosted link:-https://satvik9934.github.io/Media_Queries/
 
 # Screenshot of UI
 ![image](https://github.com/satvik9934/Media_Queries/assets/87279121/7e5d3c4c-59a9-4d57-9071-36e9e8677ba7)
